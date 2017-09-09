@@ -1,2 +1,2 @@
 # firstRepo
-First trial repository
+Tutorial - 1
